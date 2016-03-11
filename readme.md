@@ -26,9 +26,9 @@ y este readme descriptivo.
  
 ##### Remotes
 
- - git remote
- - git remote add
- - git push
- - git pull
- - git fetch
+ - [X] git remote
+ - [X] git remote add
+ - [X] git push
+ - [X] git pull
+ - [X] git fetch
 
